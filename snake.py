@@ -1,4 +1,3 @@
-#skibidi
 import pygame
 import random
 
